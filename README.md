@@ -1,25 +1,12 @@
 # GateON
 
-[![Contributors]][contributors-url]
-[![Forks]][forks-url]
-[![Issues]][issues-url]
-
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/martinbarry59/GateON">
-    <img src="https://i0.wp.com/procsim.ch/wp-content/uploads/2019/12/1280px-Logo_EPFL.svg_.png?ssl=1" alt="Logo">
-  </a>
+
 
   <h3 align="center">GateON</h3>
-
-  <p align="center">
-    <a href="https://github.com/martinbarry59/GateON/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/martinbarry59/GateON/issues">Request Feature</a>
-  </p>
-</p>
 
 
 
@@ -87,10 +74,6 @@ Installation of the does not require special software but for python. and python
 <!-- USAGE EXAMPLES -->
 
 <!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](hhttps://github.com/martinbarry59/GateON/issues) for a list of proposed features (and known issues).
-
 ## Code
 
 * To run the code:
@@ -99,7 +82,6 @@ See the [open issues](hhttps://github.com/martinbarry59/GateON/issues) for a lis
 python run_context_network
 ```
 
-(to find the arguments you can change you can have a look to the function [get_option](https://github.com/martinbarry59/GateON/blob/main/pkg/general_utils.py)).
 
 
 
